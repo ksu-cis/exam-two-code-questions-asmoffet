@@ -10,6 +10,8 @@ namespace ExamTwoCodeQuestions.Data
         /// an event to check to see if a property changes
         /// </summary>
         public event PropertyChangedEventHandler PropertyChanged;
+
+
         /// <summary>
         /// The fruit used in the cobbler
         /// </summary>
